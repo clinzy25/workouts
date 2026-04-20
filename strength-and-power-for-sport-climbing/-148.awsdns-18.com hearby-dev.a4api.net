@@ -1,0 +1,117 @@
+{
+    "HostedZones": [
+        {
+            "Id": "/hostedzone/Z016858115MYT933JHGOU",
+            "Name": "a4api.net.",
+            "CallerReference": "RISWorkflow-RD:67442c4f-bec0-451d-b86f-791a47136e03",
+            "Config": {
+                "Comment": "HostedZone created by Route53 Registrar",
+                "PrivateZone": false
+            },
+            "ResourceRecordSetCount": 27
+        },
+        {
+            "Id": "/hostedzone/Z09855082LC3IQIRPK194",
+            "Name": "a4backend-qa.net.",
+            "CallerReference": "RISWorkflow-RD:2cc3de52-5e8d-45f6-994a-a027eebb309f",
+            "Config": {
+                "Comment": "HostedZone created by Route53 Registrar",
+                "PrivateZone": false
+            },
+            "ResourceRecordSetCount": 4
+        },
+        {
+            "Id": "/hostedzone/Z2J5FTLEKUB27U",
+            "Name": "a4backend.net.",
+            "CallerReference": "RISWorkflow-RD:ec4d1c3e-2971-426d-853e-7f468229d856",
+            "Config": {
+                "Comment": "HostedZone created by Route53 Registrar",
+                "PrivateZone": false
+            },
+            "ResourceRecordSetCount": 4
+        },
+        {
+            "Id": "/hostedzone/Z01976991M09GSTZH1284",
+            "Name": "a4bandsplit.net.",
+            "CallerReference": "RISWorkflow-RD:39cd6899-0175-4e3a-a48a-42e172391093",
+            "Config": {
+                "Comment": "HostedZone created by Route53 Registrar",
+                "PrivateZone": false
+            },
+            "ResourceRecordSetCount": 5
+        },
+        {
+            "Id": "/hostedzone/Z01680112SQNKV16ZCCBP",
+            "Name": "a4editorial.net.",
+            "CallerReference": "RISWorkflow-RD:b20d796c-0651-46e0-891b-4adff0e024d4",
+            "Config": {
+                "Comment": "HostedZone created by Route53 Registrar",
+                "PrivateZone": false
+            },
+            "ResourceRecordSetCount": 5
+        },
+        {
+            "Id": "/hostedzone/Z0455951LD9B7QK4RJHU",
+            "Name": "a4match.net.",
+            "CallerReference": "RISWorkflow-RD:7bd0bfbd-a385-4915-a91d-565a3a3d5eec",
+            "Config": {
+                "Comment": "HostedZone created by Route53 Registrar",
+                "PrivateZone": false
+            },
+            "ResourceRecordSetCount": 5
+        },
+        {
+            "Id": "/hostedzone/Z06926242MN0AE9ZPM2OX",
+            "Name": "a4tm.net.",
+            "CallerReference": "RISWorkflow-RD:7bee3d69-2edf-4aa8-854c-b5e8f9b6a473",
+            "Config": {
+                "Comment": "HostedZone created by Route53 Registrar",
+                "PrivateZone": false
+            },
+            "ResourceRecordSetCount": 5
+        },
+        {
+            "Id": "/hostedzone/Z093769919VVJG2LT67ML",
+            "Name": "backendservices.net.",
+            "CallerReference": "f1b053f1-7688-47ae-93b7-2e04a588e712",
+            "Config": {
+                "Comment": "",
+                "PrivateZone": false
+            },
+            "ResourceRecordSetCount": 3
+        },
+        {
+            "Id": "/hostedzone/Z037679021GMGMWYWNT4V",
+            "Name": "area4labs.uk.",
+            "CallerReference": "RISWorkflow-RD:c70185ab-d6c1-4104-b521-0539993ed0a1",
+            "Config": {
+                "Comment": "HostedZone created by Route53 Registrar",
+                "PrivateZone": false
+            },
+            "ResourceRecordSetCount": 2
+        },
+        {
+            "Id": "/hostedzone/Z04416942MS7WPZ14WSBI",
+            "Name": "hearby.uk.",
+            "CallerReference": "RISWorkflow-RD:089d091f-d4aa-40e2-b76c-fc762d9e3f76",
+            "Config": {
+                "Comment": "HostedZone created by Route53 Registrar",
+                "PrivateZone": false
+            },
+            "ResourceRecordSetCount": 2
+        },
+        {
+            "Id": "/hostedzone/Z0218090NGJY4WPVG23Y",
+            "Name": "area4labs.us.",
+            "CallerReference": "RISWorkflow-RD:63d22f49-87ec-4c06-a6f0-13ecd6c0dead",
+            "Config": {
+                "Comment": "HostedZone created by Route53 Registrar",
+                "PrivateZone": false
+            },
+            "ResourceRecordSetCount": 6
+        }
+    ],
+    "DNSName": "a4api.net",
+    "IsTruncated": false,
+    "MaxItems": "100"
+}
